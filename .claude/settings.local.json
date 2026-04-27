@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(pip install *)",
-      "Bash(python pid_simulator.py --Kp 10 --Ki 5 --Kd 1 --save /dev/null)",
-      "Bash(python *)"
-    ]
-  }
-}
